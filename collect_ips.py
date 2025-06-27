@@ -4,7 +4,8 @@ import re
 import os
 
 # 目标URL列表
-urls = ['https://monitor.gacjie.cn/page/cloudflare/ipv4.html', 
+urls = ['https://stock.hostmonit.com/CloudFlareYes', 
+        'https://cf.090227.xyz',
         'https://ip.164746.xyz'
         ]
 
